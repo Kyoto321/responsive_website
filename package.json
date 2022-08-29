@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "gh-pages": "^4.0.0",
+        "node-sass": "^7.0.1"
+    },
+    "name": "curriculum_app",
+    "version": "1.0.0",
+    "description": "Responsive website",
+    "main": "index.js",
+    "homepage": "https://kyoto321.github.io/curriculum-app",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kyoto321/curriculum-app.git"
+    },
+    "author": "Ayo Bankole",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Kyoto321/curriculum-app/issues"
+    }
+}
