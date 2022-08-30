@@ -7,7 +7,7 @@
     "version": "1.0.0",
     "description": "Responsive website",
     "main": "index.js",
-    "deploy": "node --version",
+    "deploy": "gh-pages -d dist",
     "homepage": "https://kyoto321.github.io/curriculum-app",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
