@@ -8,12 +8,11 @@
     "description": "Responsive website",
     "main": "index.js",
 
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-
     "homepage": "https://kyoto321.github.io/curriculum-app",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "repository": {
         "type": "git",
